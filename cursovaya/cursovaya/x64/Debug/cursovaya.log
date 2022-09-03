@@ -1,0 +1,13 @@
+﻿  Artist.cpp
+  Doctor.cpp
+  main.cpp
+D:\git curs\cursovaya\cursovaya\main.cpp(1,10): fatal error C1083: Не удается открыть файл включение: Person.cpp: No such file or directory,
+  Person.cpp
+D:\git curs\cursovaya\cursovaya\Person.cpp(4,1): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+D:\git curs\cursovaya\cursovaya\Person.cpp(6,5): error C2143: синтаксическая ошибка: отсутствие ";" перед ">>"
+D:\git curs\cursovaya\cursovaya\Person.cpp(6,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\git curs\cursovaya\cursovaya\Person.cpp(7,5): error C2143: синтаксическая ошибка: отсутствие ";" перед ">>"
+D:\git curs\cursovaya\cursovaya\Person.cpp(7,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\git curs\cursovaya\cursovaya\Person.cpp(7,1): error C2086: int cin: переопределение
+D:\git curs\cursovaya\cursovaya\Person.cpp(6): message : см. объявление "cin"
+  Создание кода...
